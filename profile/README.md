@@ -3,7 +3,7 @@
 
 ### Hello 🌎, This is MCBRLab
 
-With over 8 years of experience as a Software Engineer, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
+We develop integrative and interpretable machine learning algorithms that can help clinicians with predictive models and decision support to tailor patients’ care to their unique clinical and genomic traits.🚀
 
 
   - 🔭 I’m currently working on upgrading java applications from jdk 8 to 21.
@@ -19,13 +19,13 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RResabala2015&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MCBRLab&label=Profile%20views&color=0e75b6&style=flat" alt="MCBRLab" /> </p>
 
 
 ------
 <h3 align="left">Activity:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RResabala2015&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MCBRLab&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/MCBRLab/github-readme-activity-graph)
 
 <div align="center">
   <a href="https://github.com/RResabala2015">
