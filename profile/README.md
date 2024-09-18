@@ -5,11 +5,11 @@
 
 We develop integrative and interpretable machine learning algorithms that can help clinicians with predictive models and decision support to tailor patients’ care to their unique clinical and genomic traits.🚀
 
-[<img alt="Saez Lab" src="https://raw.githubusercontent.com/saezlab/.github/main/profile/logos/saezlab.png" align="right" width="180"/>](https://saezlab.org/)
+[<img alt="Saez Lab" src="https://raw.githubusercontent.com/MCBRLab/.github/main/profile/logos/labs.svg" align="right" width="180"/>](https://mcbrlab.tech/)
 
-# Welcome to Saez Lab!
+# Welcome to MCBRLab!
 
-[We are a research group at Heidelberg University.](https://saezlab.org/)
+[We are a research group at Heidelberg University.](https://mcbrlab.tech/)
 We develop software tools for systems level analysis and [mechanistic modeling
 ](https://saezlab.org/project/deriving-mechanistic-signatures-from-omics-data/)
 of molecular and biomedical data.
