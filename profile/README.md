@@ -9,7 +9,7 @@ We develop integrative and interpretable machine learning algorithms that can he
 
 # Welcome to MCBRLab!
 
-We are a tech research group. We develop software tools for systems level analysis and mechanistic modeling of molecular and biomedical data. Our goal is to acquire a functional understanding of the deregulation of signalling networks in disease and to apply this knowledge to develop novel therapeutics. We focus on cancer, heart failure, auto-immune and fibrotic disease. Towards this goal, we integrate big (‘omics’) data with mechanistic molecular knowledge into statistical and machine learning methods. To this end, we have developed a range of tools （Pipelines）in different areas of biomedical research, mainly using the programming languages R and Python.
+We are a tech research group. We develop software tools for systems level analysis and mechanistic modeling of molecular and biomedical data. Our goal is to acquire a functional understanding of the deregulation of signalling networks in disease and to apply this knowledge to develop novel therapeutics. We focus on cancer, heart failure, auto-immune and fibrotic disease. Towards this goal, we integrate big (‘omics’) data with mechanistic molecular knowledge into statistical and machine learning methods. To this end, we using and also have developed a range of tools （Pipelines）in different areas of bio research, mainly using the programming languages R,Python, and Matlab(Web Design).
 
 
 # Resources
