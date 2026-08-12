@@ -6,14 +6,14 @@
 We develop integrative and interpretable machine learning algorithms that can help clinicians with predictive models and decision support to tailor patients’ care to their unique clinical and genomic traits.🚀
 
 [<img alt="Saez Lab" src="https://raw.githubusercontent.com/MCBRLab/.github/main/profile/logos/labs.svg" align="right" width="180"/>](https://mcbrlab.tech/)
-
+[<img alt="Saez Lab" src="https://raw.githubusercontent.com/MCBRLab/.github/main/profile/logos/mcbrlabs.jpeg" align="right" width="180"/>](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0OTc0MzUwNg==&action=getalbum&album_id=3967516230608486405&scene=305#wechat_redirect)
 # Welcome to MCBRLab!
 
 We are a tech research group. We develop software tools for systems level analysis and mechanistic modeling of molecular and biomedical data. Our goal is to acquire a functional understanding of the deregulation of signalling networks in disease and to apply this knowledge to develop novel therapeutics. We focus on cancer, heart failure, auto-immune and fibrotic disease. Towards this goal, we integrate big (‘omics’) data with mechanistic molecular knowledge into statistical and machine learning methods. To this end, we using and also have developed a range of tools （Pipelines）in different areas of bio research, mainly using the programming languages R,Python, and Matlab(Web Design).
 
 WeChat Official Accounts :
 
-[<img alt="Saez Lab" src="https://raw.githubusercontent.com/MCBRLab/.github/main/profile/logos/mcbrlabs.jpeg" align="right" width="180"/>](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0OTc0MzUwNg==&action=getalbum&album_id=3967516230608486405&scene=305#wechat_redirect)
+
 
 # Resources
 
